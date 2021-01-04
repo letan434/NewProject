@@ -1,0 +1,9 @@
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/bin/Debug/netcoreapp3.1/NewProject.ViewModels.deps.json
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/bin/Debug/netcoreapp3.1/NewProject.ViewModels.dll
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/bin/Debug/netcoreapp3.1/NewProject.ViewModels.pdb
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/obj/Debug/netcoreapp3.1/NewProject.ViewModels.csprojAssemblyReference.cache
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/obj/Debug/netcoreapp3.1/NewProject.ViewModels.AssemblyInfoInputs.cache
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/obj/Debug/netcoreapp3.1/NewProject.ViewModels.AssemblyInfo.cs
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/obj/Debug/netcoreapp3.1/NewProject.ViewModels.csproj.CoreCompileInputs.cache
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/obj/Debug/netcoreapp3.1/NewProject.ViewModels.dll
+/Users/lexuantan/Projects/NewProject/NewProject.ViewModels/obj/Debug/netcoreapp3.1/NewProject.ViewModels.pdb
